@@ -16,7 +16,8 @@ C++ implementation of the monte carlo path tracer with support for:
 - [x] Debug Rasterization  
 - [x] Parallelization and load balancing
 
-This project is coded in 48 hours for the final project of USC CSCI420 computer graphics
+This project was coded in 48 hours for the final project of USC CSCI420 computer graphics.
+
 To use this project, simply clone the repository, and add this subdirectory to your `CMakeLists.txt`. 
 The exact details in how to register geometry and lights are provided in the `scene.h` file.
 
