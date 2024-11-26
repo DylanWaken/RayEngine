@@ -1,6 +1,6 @@
 ## Ray Engine: A minimalistic header-only path tracer framework
 
-![image](./images/000.png)
+![image](./images/000.jpg)
 
 C++ implementation of the monte carlo path tracer with support for:
 
@@ -22,5 +22,5 @@ Refernce: Matt Pharr, Wenzel Jakob, and Greg Humphreys : "Physically Based Rende
 
 Other examples:
 
-![image](./images/002.png)
-![image](./images/006.png)
+![image](./images/002.jpg)
+![image](./images/006.jpg)
