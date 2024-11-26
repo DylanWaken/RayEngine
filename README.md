@@ -4,8 +4,9 @@
 
 C++ implementation of the monte carlo path tracer with support for:
 
-- [x] PBR Maps
+- [x] PBR Maps (specular, diffuse, shading normals, roughness, metallic)
 - [x] BRDF evaluation (currently only Phong Specular and Lambertian, Torrance-Sparrow Microfacet model coming soon)
+- [x] HDRI maps (only constant color right now, texture map support comming soon) 
 - [x] BVH over surface area heuristic
 - [x] Direct Lighting  
 - [x] Indirect Lighting from throughput
